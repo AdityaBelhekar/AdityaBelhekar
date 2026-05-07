@@ -1,83 +1,177 @@
-# 👋 Hey, I'm Aditya
+<!-- ============================================================
+     ADITYA BELHEKAR — GitHub Profile README
+     ============================================================ -->
 
-🚀 Builder | BTech Student | Future Tech Founder
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     CINEMATIC BANNER — 21:9
+     Upload banner_21x9.png to your repo root or assets/ folder.
+     Replace AdityaBelhekar with your actual GitHub AdityaBelhekar.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
----
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/AdityaBelhekar/AdityaBelhekar/main/banner_21x9.png"
+    width="100%"
+    alt="Aditya Belhekar — pirate cat hacker banner"
+  />
+</div>
 
-## 🧬 Who Am I?
-
-I’m not here to just complete a degree and disappear into the system. I’m building, breaking, learning — on my own terms. Right now, I’m a 3rd year BTech student based in Pune, but mentally? I’m already somewhere between writing code at 2AM and thinking about systems that don’t exist yet… but will. I don’t follow the “perfect roadmap”. I follow curiosity. I follow things that feel real. I follow ideas that don’t leave me alone.
-
-Sometimes messy.
-Sometimes incomplete.
-Sometimes confusing.
-
-But never still.
-
----
-
-## 🏗️ What I'm Building
-
-### **Aarohan**
-
-Not a side project. Not a college idea.
-
-Aarohan is evolving into a **modern software-first venture** — building digital systems, tools, and AI-driven products for small to mid-scale businesses, while also pushing into **open-source and experimental builds**. Not just websites. Not just apps. Systems that *run*. Systems that *scale*. Systems that don’t break the moment reality hits. 
-
-Right now it's early.
-
-But early stages are where foundations are built — quietly, imperfectly, but intentionally.
+<br/>
 
 ---
 
-### **AgentShield — a runtime security SDK for AI agents.**
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     WHO'S THIS GUY?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-Started because I wanted to understand how LLMs and agents actually work under the hood. Turns out they're surprisingly easy to manipulate — prompt injection, goal drift, memory poisoning, the whole thing. So I built something to stop that. It hooks into LangChain, CrewAI, whatever you're using and monitors everything in real time.
-It's fully open source. Building it has been the best way I've learned anything — runtime systems, cryptographic audit chains, inter-agent trust graphs. All new to me. Still going.
+<br>
+<h2 align="center">✦ ᴛ ʜ ᴇ &nbsp;&nbsp; ɢ ᴜ ʏ &nbsp;&nbsp; ʙ ᴇ ʜ ɪ ɴ ᴅ &nbsp;&nbsp; ᴛ ʜ ᴇ &nbsp;&nbsp; ꜱ ᴄ ʀ ᴇ ᴇ ɴ ✦</h2>
+<br>
 
----
+<table>
+  <tr>
+    <td valign="middle" width="72%">
+Final-year Computer Engineering student at DES Pune University who decided that building real things was more interesting than waiting to graduate.
 
-## 🚧 Current Arc
+I don't write code to get a job. I write code to build systems that do things that didn't exist before — security layers for AI agents, products for local businesses, research experiments that break in interesting ways.
 
-This phase is different. Less consuming. More understanding.
+My stack is whatever the problem needs. Right now that's mostly Python · Next.js · Supabase · FastAPI with a lot of AI infrastructure glue holding it together.
 
-* Moving from **“AI wrote this code” → “I own what I build”**
-* Going deep into **Python & AI/ML** — not surface, not shortcuts
-* Exploring **Cybersecurity** as a second layer of thinking
-* Building Aarohan while learning how real systems behave
+I move slowly on things that matter and fast on things that don't. Figuring out what financial independence looks like when you're 21 and building in public while doing it.
 
-No fake productivity. No tutorial loops. Everything I learn is tied to something I’m building.
+  </td>
+    <td valign="middle" align="center" width="28%">
+      <img
+        src="https://raw.githubusercontent.com/AdityaBelhekar/AdityaBelhekar/main/icebear.png"
+        width="260"
+        alt="Ice Bear — the vibe"
+      />
+    </td>
+  </tr>
+</table>
 
----
-
-## 🎯 What Drives Me
-
-I’m not chasing hype. I’m chasing **clarity**. The kind where:
-
-* You understand your systems
-* You control your tools
-* You don’t depend on someone else to move forward
-
-I don’t want fast success. I want something that **lasts longer than motivation**.
-
----
-
-## 🧠 Philosophy / Rules I Follow
-
-* Build first. Then understand deeper. Then rebuild better.
-* If I can't modify it, I don't truly know it.
-* AI is leverage — not a replacement for thinking.
-* When things break, that’s where real learning starts.
-* Keep things simple. Complexity should earn its place.
-* Momentum beats motivation. Every time.
+<br clear="right"/>
 
 ---
 
-## 🤝 If You’re Here
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     THE STARTUP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-You probably build too. Or maybe you’re just starting. Either way — you’re early. And that’s the best place to be.
+<br>
+<h2 align="center">✦ ᴛ ʜ ᴇ &nbsp;&nbsp; ꜱ ᴛ ᴀ ʀ ᴛ ᴜ ᴘ ✦</h2>
+<br>
+
+<div align="center">
+  <blockquote>
+    <b>Aarohan</b> is a tech innovation org building software that's actually useful — open source tools, paid products, and custom solutions depending on what the problem needs.
+    <br><br>
+    Not a services company. Not an agency. The goal is to build things that stand on their own — tools developers reach for, products businesses pay for, and open source work that earns its stars. <br>
+    <i>Still early. Figuring out the right problems to go after. Building in public as we go.</i>
+  </blockquote>
+</div>
 
 ---
 
-> This isn’t the peak.
-> This is just the part where things start to make sense.
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     WHAT I'M BUILDING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br>
+<h2 align="center">✦ ᴡ ʜ ᴀ ᴛ &nbsp;&nbsp; ɪ ' ᴍ &nbsp;&nbsp; ʙ ᴜ ɪ ʟ ᴅ ɪ ɴ ɢ ✦</h2>
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ &nbsp; AgentShield</h3>
+      <p>
+        The security primitive the agent ecosystem is missing.<br/><br/>
+        A Python library that wraps AI agents with prompt injection detection,
+        Agent DNA fingerprinting, canary token injection, cryptographic audit trails,
+        and a red team CLI — all in a <code>@shield</code> decorator.<br/><br/>
+        <strong>Python · FastAPI · Redis · sentence-transformers · faiss</strong><br/><br/>
+        <a href="https://github.com/AdityaBelhekar/AgentShield">→ github.com/AdityaBelhekar/AgentShield</a><br/>
+        <a href="https://pypi.org/project/agentshield-x/">→ PyPI: agentshield-x</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 &nbsp; Aarohan</h3>
+      <p>
+        Tiered digital infrastructure for local businesses in India.<br/><br/>
+        Start with a landing page. Add booking and analytics when ready.
+        Automate with AI when the business is stable enough to use it.<br/><br/>
+        <strong>Next.js · Supabase · Stripe · Twilio · OpenAI</strong><br/><br/>
+        <em>Early stage. First clients onboarding.</em>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 &nbsp; PRISM</h3>
+      <p>
+        Pre-fraud mule account detection engine built for the
+        PSBs Hackathon Series 2026 (Ministry of Finance, DFS).<br/><br/>
+        Flags suspicious accounts before money moves using behavioral
+        signals and a <strong>WarmthScore</strong> system — built with team ARGUS.<br/><br/>
+        <strong>Python · ML · Financial data pipelines</strong><br/><br/>
+        <em>Hackathon submission — MoF / DFS 2026.</em>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏴‍☠️ &nbsp; The Strawhats &nbsp; <code>coming soon</code></h3>
+      <p>
+        Something is brewing.<br/><br/>
+        A project that doesn't have a public page yet —
+        because it's not ready to be public yet.<br/><br/>
+        <em>Stay tuned. Or don't. Either way it'll ship.</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     CONTACT / OPPORTUNITIES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br>
+<h2 align="center">✦ ʟ ᴇ ᴛ ' ꜱ &nbsp;&nbsp; ᴛ ᴀ ʟ ᴋ ✦</h2>
+<br>
+
+<div align="center">
+  <i>I'm open to <b>internships, collaborations, freelance work, and conversations</b> that don't start with "we're looking for a team player."</i>
+  <br><br>
+  If you're building something in AI infrastructure, developer tooling, or anything that's genuinely hard — I want to hear about it.
+  <br><br>
+  If you need someone who can move fast, think architecturally, and not need hand-holding — reach out.
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Belhekar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-belhekar/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belhekaraditya96@gmail.com)
+&nbsp;
+[![PyPI](https://img.shields.io/badge/PyPI-agentshield--x-3775a9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/agentshield-x/)
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+     RANDOM DEV QUOTE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<br/>
+
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+</div>
