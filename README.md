@@ -42,7 +42,7 @@ I move slowly on things that matter and fast on things that don't. Figuring out 
   </td>
     <td valign="middle" align="center" width="28%">
       <img
-        src="https://raw.githubusercontent.com/AdityaBelhekar/AdityaBelhekar/main/icebear.png"
+        src="https://raw.githubusercontent.com/AdityaBelhekar/AdityaBelhekar/main/Aditya.png"
         width="260"
         alt="Ice Bear — the vibe"
       />
