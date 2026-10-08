@@ -11,8 +11,4 @@
 <a href="https://github.com/AdityaBelhekar/AgentShield"><img src="assets/agentshield.jpg" width="49.5%" alt="AgentShield: runtime security layer for AI agents. Catches prompt injection, jailbreaks, tool abuse and memory poisoning before the agent acts." /></a>
 <a href="https://github.com/AdityaBelhekar/Sheep"><img src="assets/sheep.jpg" width="49.5%" alt="Sheep: a sandbox where AI models argue, test and prove each other wrong." /></a>
 
-<img src="assets/fortune.jpg" width="100%" alt="$ fortune" />
-
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 </div>
